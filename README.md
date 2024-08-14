@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a PhD student currently working on the application of MPM in geotechnical engineering. 
 <!--
 **PetitPipi/PetitPipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
